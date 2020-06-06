@@ -9,6 +9,7 @@ h1{
     letter-spacing: 2px;
     margin-top: 80px;
     text-align: center;
+    
 }
 
 .content{
@@ -74,7 +75,6 @@ form input{
     box-sizing: border-box;
     font-size: 18px;
 }
-
 form input:focus{
     outline: none;
     border-bottom: 3px solid #88236f;
